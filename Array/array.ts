@@ -1,6 +1,6 @@
 /*  You can create an array that only holds a specific type of data, like numbers or strings, which helps catch errors in your code. */
 
-// 1. Declaring an Array
+// 1. Declaring  Array
    let numbers: number[] = [1, 2, 3, 4]; // An array of numbers
    let names: string[] = ["Alice", "Bob", "Charlie"]; // An array of strings
 
